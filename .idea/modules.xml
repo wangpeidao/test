@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goods_dao/goods_dao.iml" filepath="$PROJECT_DIR$/goods_dao/goods_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods_domain/goods_domain.iml" filepath="$PROJECT_DIR$/goods_domain/goods_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods_parent.iml" filepath="$PROJECT_DIR$/goods_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods_service/goods_service.iml" filepath="$PROJECT_DIR$/goods_service/goods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goods_web/goods_web.iml" filepath="$PROJECT_DIR$/goods_web/goods_web.iml" />
+    </modules>
+  </component>
+</project>
